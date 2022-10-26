@@ -12,3 +12,8 @@
 	path = air-mattia/l10n-italy_x_asset
 	url = git@github.com:air-mattia/l10n-italy_x_asset.git
 	branch = 14.0
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
