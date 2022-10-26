@@ -7,3 +7,8 @@
 	path = airsrl/l10n-italy-extra
 	url = git@github.com:airsrl/l10n-italy-extra.git
 	branch = 14.0
+
+[submodule "air-mattia/l10n-italy_x_asset"]
+	path = air-mattia/l10n-italy_x_asset
+	url = git@github.com:air-mattia/l10n-italy_x_asset.git
+	branch = 14.0
