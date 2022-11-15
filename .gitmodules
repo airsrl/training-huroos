@@ -7,3 +7,8 @@
 	path = airsrl/l10n-italy-extra
 	url = git@github.com:airsrl/l10n-italy-extra.git
 	branch = 14.0
+
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 14.0
